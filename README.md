@@ -5,4 +5,6 @@
   <img src="https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=vscode">
+  
 </div>

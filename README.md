@@ -2,7 +2,6 @@
 
 <div align="center">
 
-# 💫 About Me:
 𝖧𝗂, <br>𝖨'𝗆 𝖴𝗍𝗍𝖺𝗄𝖺𝗋𝗌𝗁 𝖯𝗋𝖺𝗍𝖺𝗉 𝖲𝗂𝗇𝗀𝗁
 
 

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttakarsh-01&label=Profile%20views&color=0e75b6&style=flat" alt="uttakarsh-01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uttakarsh-01" alt="uttakarsh-01" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
 
 - 🤝 I’m looking for help with **Ai based integration on web dev**
@@ -24,6 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttakarsh-01&show_icons=true&locale=en&layout=compact" alt="uttakarsh-01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttakarsh-01&show_icons=true&local
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttakarsh-01&show_icons=true&locale=en" alt="uttakarsh-01" /></p>
+
 
 

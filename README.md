@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/uttakarsh_01?t=p4kmi21g2t_dsoglq8awyg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/uttakarsh_01?t=p4kmi21g2t_dsoglq8awyg&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/uttakarsh-pratap-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uttakarsh-pratap-singh/" height="30" width="40" /></a>
+<a href="https://x.com/uttakarsh_01?t=p4kmi21G2T_dsOgLQ8awYg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/uttakarsh_01?t=p4kmi21G2T_dsOgLQ8awYg&s=09" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uttakarsh-pratap-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uttakarsh-pratap-singh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttakarsh-01&show_icons=true&locale=en&layout=compact" alt="uttakarsh-01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttakarsh-01&show_icons=true&locale=en" alt="uttakarsh-01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttakarsh-01&show_icons=true&local
+
 
